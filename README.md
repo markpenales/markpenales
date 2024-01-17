@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/john-mark-penales/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn </a></code>
-  <code><a href="https://leetcode.com/markpenales/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode </a></code>
+  <code><a href="https://leetcode.com/markpenales/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode </a>
   <code><a href="mailto:johnmarkpili@gmail.com" title="Gmail"><img width="22" src="images/gmail.webp"> Gmail </a></code>
 </h5>
 
@@ -30,7 +30,8 @@ Hi, I'm John Mark Peñales, a Full Stack Developer, Software Engineer, & Compute
 
 ### 🚀 Languages and Tools
 
-| Category  | Tools                                                                                                                                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Front End | <img title="Vue" height="25" src="images/vue.png"> <img title="React" height="25" src="images/react.png"> <img title="Tailwind" height="25" src="images/tailwind.png"> <img title="Bootstrap" height="25" src="images/bootstrap.png"> |
-| Back End  |                                                                                                                                                                                                                                       |
+| Category  | Tools                                                                                                                                                                                                                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Framework | <code><img title="Laravel" height="25" src="images/laravel.png"></code> <code><img title="Flutter" height="25" src="images/flutter.png"></code> <code><img title="Django" height="25" src="images/django.png"></code>                                                                     |
+| Front End | <code><img title="Vue" height="25" src="images/vue.png"></code> <code><img title="React" height="25" src="images/react.png"></code> <code><img title="Tailwind" height="25" src="images/tailwind.png"></code> <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code> |
+| Back End  | <code><img title="Laravel Nova" height="25" src="images/nova.png"></code> <code><img title="Laravel Filament" height="25" src="images/filament.png"></code>                                                                                                                               |
