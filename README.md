@@ -36,6 +36,9 @@ Hi, I'm John Mark Peñales, a Full Stack Developer, Software Engineer, & Compute
 | Back End  | <code><img title="Laravel Nova" height="25" src="images/nova.png"></code> <code><img title="Laravel Filament" height="25" src="images/filament.png"></code>                                                                                                                               |
 
 ### Github Stats
-
-<img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api?username=markpenales&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpenales&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=markpenales&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpenales&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</div>
