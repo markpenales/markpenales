@@ -27,3 +27,10 @@ Hi, I'm John Mark Peñales, a Full Stack Developer, Software Engineer, & Compute
 💼 I'm currently employed by Coreproc Inc. as a Junior Backend Developer specializing in PHP and Laravel. <br>
 
 </p>
+
+### 🚀 Languages and Tools
+
+| Category  | Tools                                                                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Front End | <img title="Vue" height="25" src="images/vue.png"> <img title="React" height="25" src="images/react.png"> <img title="Tailwind" height="25" src="images/tailwind.png"> <img title="Bootstrap" height="25" src="images/bootstrap.png"> |
+| Back End  |                                                                                                                                                                                                                                       |
