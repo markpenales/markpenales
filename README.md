@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/john-mark-penales/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn </a></code>
-  <code><a href="https://leetcode.com/markpenales/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode </a>
+  <code><a href="https://leetcode.com/markpenales/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode </a></code>
   <code><a href="mailto:johnmarkpili@gmail.com" title="Gmail"><img width="22" src="images/gmail.webp"> Gmail </a></code>
 </h5>
 
