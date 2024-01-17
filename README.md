@@ -27,11 +27,10 @@ Hi, I'm John Mark Peñales, a Full Stack Developer, Software Engineer, & Compute
 💼 I'm currently employed by Coreproc Inc. as a Junior Backend Developer specializing in PHP and Laravel. <br>
 
 </p>
-
 ### 🚀 Languages and Tools
 
-| Category  | Tools                                                                                                                                                                                                                                                                                     |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Framework | <code><img title="Laravel" height="25" src="images/laravel.png"></code> <code><img title="Flutter" height="25" src="images/flutter.png"></code> <code><img title="Django" height="25" src="images/django.png"></code>                                                                     |
+| Category | Tools|
+| | |
+| Framework | <code><img title="Laravel" height="25" src="images/laravel.png"></code> <code><img title="Flutter" height="25" src="images/flutter.png"></code> <code><img title="Django" height="25" src="images/django.png"></code>|
 | Front End | <code><img title="Vue" height="25" src="images/vue.png"></code> <code><img title="React" height="25" src="images/react.png"></code> <code><img title="Tailwind" height="25" src="images/tailwind.png"></code> <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code> |
-| Back End  | <code><img title="Laravel Nova" height="25" src="images/nova.png"></code> <code><img title="Laravel Filament" height="25" src="images/filament.png"></code>                                                                                                                               |
+| Back End | <code><img title="Laravel Nova" height="25" src="images/nova.png"></code> <code><img title="Laravel Filament" height="25" src="images/filament.png"></code>|
