@@ -23,7 +23,7 @@ Hi, I'm John Mark Peñales, a Full Stack Developer, Software Engineer, & Compute
 
 🎓 I'm currently finishing my bachelors degree at Camarines Sur Polytechnic Colleges <br>
 💻 I'm currently working on a website for the JPCS - CSPC Chapter. <br>
-💼 I'm currently employed by Coreproc Inc. as a Junior Backend Developer specializing in PHP and Laravel. <br>
+💼 I'm currently employed by Elgada BPO Solutions Inc. as a Mid Software Developer <br>
 
 </p>
 
